@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrustedParts is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.trustedparts.com/
+TrustedParts is a provider of automotive parts and components, offering a catalog of products through an online platform. The company focuses on delivering high-quality, OEM‑grade parts to mechanics, repair shops, and end‑users. TrustedParts aims to simplify parts sourcing with searchable listings, detailed specifications, and integration possibilities for partners seeking to incorporate parts data into their own applications or services. While the public website currently presents a JavaScript‑protected front page, the organization’s core mission remains centered on reliable parts distribution and customer support.
+
+**Areas:** Automotive · Parts · E-commerce · B2B · SupplyChain
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.trustedparts.com/)
+- [GitHub](https://github.com/trustedparts)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/trustedparts/](https://apis.io/providers/trustedparts/).
